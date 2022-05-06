@@ -1,4 +1,4 @@
-# Learning-Pojects
+# Learning-Projects
 ## Learning Projects created during Codecademy courses
 
 This repository contains projects I made during my Codecademy Courses.
