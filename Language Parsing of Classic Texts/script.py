@@ -1,11 +1,12 @@
-'''Codecademy project based on Natural Language Processing from the Build Chatbots with Python Course'''
+'''Codecademy project based on Natural Language Processing from the Build Chatbots with Python Course.  This project helps analyze a text using NLP to 
+determine key themes and important topics.'''
 
 from nltk import pos_tag, RegexpParser
 from tokenize_words import word_sentence_tokenize
 from chunk_counters import np_chunk_counter, vp_chunk_counter
 
 # import text of choice here
-text = open("my_text.txt",encoding="utf-8").read().lower()
+text = open("dorian_gray_sample_text.txt",encoding="utf-8").read().lower()
 
 # sentence and word tokenize text here
 word_tokenized_text = word_sentence_tokenize(text)
