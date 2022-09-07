@@ -1,5 +1,5 @@
 public class Calculator{
-//this is a pretty basic calculator.  integers only.
+//this is a pretty basic calculator, to practice using classes and methods.  integers only.
   public Calculator(){
   
   }
