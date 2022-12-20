@@ -6,8 +6,9 @@ So far I have completed:
 - Learn Python 3
 - Learn Recursion with Python
 - Build Chatbots with Python
+- Learn Java
 
 I am currently enrolled in:
-- Learn Java
+- Intermediate Python 3
 
 I will continue posting more projects here as I wade through the courses and learn more!
