@@ -6,6 +6,7 @@ So far I have completed:
 - Learn Python 3
 - Learn Recursion with Python
 - Build Chatbots with Python
+- Learn Bash Scripting
 - Learn Java
 
 I am currently enrolled in:
